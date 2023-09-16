@@ -18,6 +18,7 @@ Here you can find a few projects that I've deployed around cybersecurity, I hope
   - [Snort as IPS]()
   - [Splunk]()
   - [Pi-Hole]()
+  - [TrueNAS]()
   - [Docker & Portainer]()
   - [Nginx]()
  
