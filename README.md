@@ -18,6 +18,8 @@ Here you can find a few projects that I've deployed around cybersecurity, I hope
   - [Snort as IPS]()
   - [Splunk]()
   - [Pi-Hole]()
+  - [Docker & Portainer]()
+  - [Nginx]()
  
 <h2>🔭 I’m currently working on...</h2>
 
