@@ -17,7 +17,7 @@ Here you can find a few projects that I've deployed around cybersecurity, I hope
   - [pfSense](https://github.com/olucasxavier/pfSense/)
   - [Snort as IPS]()
   - [Splunk]()
-  - [Pi-Hole]()
+  - [Pi-Hole](https://github.com/olucasxavier/Pi-Hole/)
   - [TrueNAS]()
   - [Docker & Portainer]()
   - [Nginx]()
