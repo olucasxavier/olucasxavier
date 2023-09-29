@@ -15,7 +15,7 @@ Here you can find a few projects that I've deployed around cybersecurity, I hope
 - <b>Virtualization</b>
   - [Proxmox Virtual Environment](https://github.com/olucasxavier/ProxmoxVirtualEnvironment)
   - [pfSense](https://github.com/olucasxavier/pfSense/)
-  - [Snort as IPS]()
+  - [Snort](https://github.com/olucasxavier/Snort/)
   - [Splunk]()
   - [Pi-Hole](https://github.com/olucasxavier/Pi-Hole/)
   - [TrueNAS]()
