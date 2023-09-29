@@ -8,17 +8,12 @@ Here you can find a few projects that I've deployed around cybersecurity, I hope
 
 <h2>👨‍💻 Homelab Cybersecurity Projects</h2>
 
-- <b>Network Infrastructure</b>
-  - [Planning and Deploying a SOHO Network]()
-  - [Managing, Monitoring & Securying a Network]()
-
 - <b>Virtualization</b>
   - [Proxmox Virtual Environment](https://github.com/olucasxavier/ProxmoxVirtualEnvironment)
   - [pfSense](https://github.com/olucasxavier/pfSense/)
   - [Snort](https://github.com/olucasxavier/Snort/)
   - [Splunk]()
   - [Pi-Hole](https://github.com/olucasxavier/Pi-Hole/)
-  - [TrueNAS]()
   - [Docker & Portainer]()
   - [Nginx]()
  
