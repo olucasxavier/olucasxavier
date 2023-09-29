@@ -12,14 +12,14 @@ Here you can find a few projects that I've deployed around cybersecurity, I hope
   - [Proxmox Virtual Environment](https://github.com/olucasxavier/ProxmoxVirtualEnvironment)
   - [pfSense](https://github.com/olucasxavier/pfSense/)
   - [Snort](https://github.com/olucasxavier/Snort/)
-  - [Splunk]()
+  - [Splunk](https://github.com/olucasxavier/Splunk/)
   - [Pi-Hole](https://github.com/olucasxavier/Pi-Hole/)
   - [Docker & Portainer]()
   - [Nginx]()
  
 <h2>🔭 I’m currently working on...</h2>
 
-  - [Splunk]()
+  - [Splunk](https://github.com/olucasxavier/Splunk/)
   - - [Querying, analysing and presenting data]()
 
 <h2> 🤳 Connect with me:</h2>
