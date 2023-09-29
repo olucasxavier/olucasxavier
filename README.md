@@ -19,7 +19,7 @@ Here you can find a few projects that I've deployed around cybersecurity, I hope
  
 <h2>🔭 I’m currently working on...</h2>
 
-  - [SIEM Integrations]()
+  - [Splunk]()
   - - [Querying, analysing and presenting data]()
 
 <h2> 🤳 Connect with me:</h2>
